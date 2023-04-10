@@ -17,11 +17,9 @@ WIP
 ## Whiteboard Images
 * Original Whiteboard sketch
 
-![Whiteboard home sketch]
-(https://i.imgur.com/j8FnlTE.png)
+![Whiteboard home sketch](https://i.imgur.com/j8FnlTE.png)
 
-![Whiteboard search sketch[
-(https://i.imgur.com/EMjDDf0.png)
+![Whiteboard search sketch](https://i.imgur.com/EMjDDf0.png)
 
 # Trello Planning
 WIP
